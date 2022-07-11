@@ -7,6 +7,7 @@ WEEKLY TO DO:
 * update info edinburgh
 * conference program
 * title for the conference 
+* make the website nicer
 
 TIMELINE
 * wait for funding
