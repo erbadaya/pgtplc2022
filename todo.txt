@@ -1,6 +1,6 @@
 WEEKLY TO DO: 
-* form for abstracts
-* form for workshops
+* form for abstracts (sketched)
+* form for workshops (sketched)
 * submit fund application
 * check booking teviot
 * update info about the venue
