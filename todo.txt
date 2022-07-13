@@ -15,3 +15,6 @@ IF FUNDING IS APPROVED
 * form for abstracts
 * form for workshops
 * publish website
+
+REMEMBER
+* ask about dietary preferences and allergies when people register
