@@ -2,19 +2,22 @@ WEEKLY TO DO:
 * form for abstracts (sketched)
 * form for workshops (sketched)
 * check booking teviot
-* update info about the venue
-* update info edinburgh
+* update info about the venue (13/07: only a map is missing; maybe an interactive google maps?)
+* update info edinburgh (13/07: only a map is missing; maybe an interactive google maps?; i wouldn't know what else to add)
 * conference program
 * title for the conference 
 * make the website nicer
 
 TIMELINE
-* wait for funding
-IF FUNDING IS APPROVED
+13/07 funding got accepted!
 * contact speakers
 * form for abstracts
 * form for workshops
 * publish website
+* contact sarah moore from stud comm to help us promote the event
+* facilities will contact us re owl
+
+* until 31st august no money can be claimed
 
 REMEMBER
 * ask about dietary preferences and allergies when people register
