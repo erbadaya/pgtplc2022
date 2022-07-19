@@ -1,20 +1,18 @@
-WEEKLY TO DO: 
-* form for abstracts (sketched)
-* form for workshops (sketched)
-* check booking teviot
-* update info about the venue
-* update info edinburgh
-* conference program
-* title for the conference 
-* make the website nicer
-
 TIMELINE
-* wait for funding
-IF FUNDING IS APPROVED
-* contact speakers
-* form for abstracts
-* form for workshops
-* publish website
+1. form for abstracts (sketched) - qualtrics (ESPE)
+   form for workshops (sketched) - qualtrics: some questions mandatory, some others no and we give them 1/2 week (ESPE)
+2. speakers (BOTH): look at the survey, prepare a template email (GRE), 8 names (BOTH)
+3. add general structure to conference program (GRE)
+4. name for conference (GRE)
+5. github templates (ESPE)
+5. publish website, with an email (BOTH)
 
 REMEMBER
 * ask about dietary preferences and allergies when people register
+
+
+THINGS TO ASK SARAH:
+- how do we contact academics??
+- how do we share it with students??
+- can we print something to share? is it smart?
+- tips about twitter, all the staff
