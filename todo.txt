@@ -1,6 +1,6 @@
 TIMELINE
-1. edit the email, send it to the speakers
-2. check general structure to conference program 
+1. edit the email(DONE)
+2. check general structure to conference program (DONE)
 3. website
 5. publish website, with an email (BOTH) - MONDAY
 6. twitter, our accounts, lasse, my people your people, linguistic lists, postgrads email
